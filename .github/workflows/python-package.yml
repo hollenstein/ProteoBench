@@ -5,7 +5,7 @@ name: Test Python package
 
 on:
   push:
-    branches: ["main"]
+    branches: ["run-ghactions-in-fork"]
   pull_request:
     branches: ["main"]
 
